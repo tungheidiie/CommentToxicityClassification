@@ -14,6 +14,9 @@ After training with one epoch:
 ![image](https://github.com/tungheidiie/CommentToxicityClassification/assets/170008056/bf48d464-c97d-4cbd-b984-3836112553be)
 
 Testing with the test data:
+![image](https://github.com/tungheidiie/CommentToxicityClassification/assets/170008056/bae48035-4e65-4f31-ab7f-ac0b6baee590)
+
+Testing with a text sample gives the result:
 ![image](https://github.com/tungheidiie/CommentToxicityClassification/assets/170008056/ff8960ff-591a-46e6-9618-e95781220ffd)
 
 Save the model to a file: cmt_toxicity.keras
